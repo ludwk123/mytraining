@@ -1,4 +1,4 @@
-# Internet Training Resources:
+# Internet Training Resources
 
 
 ### Docker Jenkins:
