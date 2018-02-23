@@ -15,7 +15,7 @@
 5. [Reporting ExtentReport, TestNG](https://www.swtestacademy.com/extentreports-testng/)
 6. [Customize XPATH for WebElements](https://seleniumbycharan.wordpress.com/2015/10/03/how-to-customize-xpath-to-identify-webelements-in-smart-way/)
 7. [How to code HTML now](https://html.com)
-8. [Selenium Test Automation: Practical Tips & Tricks - with Dave Haeffner](https://www.youtube.com/watch?v=cIevkkD_LB4)
+8. [Test Automation: Tips & Tricks - with Dave Haeffner](https://www.youtube.com/watch?v=cIevkkD_LB4)
 
 ### PostgreSQL:
 
