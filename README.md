@@ -5,6 +5,7 @@
 
 1. [Automating Jenkins Docker Setup](https://technologyconversations.com/2017/06/16/automating-jenkins-docker-setup/)
 2. [Automated testing with Jenkins](https://assertible.com/blog/automated-api-testing-with-jenkins)
+3. [Triggering Jenkins Build From Git Push](https://medium.com/@marc_best/trigger-a-jenkins-build-from-a-github-push-b922468ef1ae)
 
 ### Selenium:
 
