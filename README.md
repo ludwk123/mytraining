@@ -18,6 +18,7 @@
 7. [How to code HTML now](https://html.com)
 8. [Test Automation: Tips & Tricks - with Dave Haeffner](https://www.youtube.com/watch?v=cIevkkD_LB4)
 9. [JsonWireProtocol](https://github.com/SeleniumHQ/selenium/wiki/JsonWireProtocol)
+10. [Location path language Xpath](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.62.4077&rep=rep1&type=pdf)
 
 ### PostgreSQL:
 
